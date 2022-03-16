@@ -6,4 +6,5 @@ int main()
 	
 	
 	cout<<"kirubel tibebeb"<<endl;
+	cout<<"hello world"<<endl;
 }
